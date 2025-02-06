@@ -4,9 +4,14 @@
     - Installing Git (Linux, macOS, Windows)
     - Configuring Git (username, email, editor)
 
-    ```git config --global user.name “[firstname lastname]”
+    ```javascript
+        git config --global user.name “[firstname lastname]”
         set a name that is identifiable for credit when review version history
+
+        git config --global user.email “[valid-email]”
+    set an email address that will be associated with each history marker
     ```
+    
     ```
     git config --global user.email “[valid-email]”
     set an email address that will be associated with each history marker
