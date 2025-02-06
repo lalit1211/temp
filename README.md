@@ -1,7 +1,7 @@
  > aboutMe.js
 
 
-```javascript
+```
 const Lalit_Kumar = {
     Pronouns: He / Him
     Code: [ Html, Css, Javascript, ReactJs, NodeJs ]
